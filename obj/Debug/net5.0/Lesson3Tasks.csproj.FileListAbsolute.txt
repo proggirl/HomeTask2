@@ -1,0 +1,16 @@
+C:\Users\99293\source\repos\Lesson3Tasks\obj\Debug\net5.0\Lesson3Tasks.csproj.AssemblyReference.cache
+C:\Users\99293\source\repos\Lesson3Tasks\obj\Debug\net5.0\Lesson3Tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99293\source\repos\Lesson3Tasks\obj\Debug\net5.0\Lesson3Tasks.AssemblyInfoInputs.cache
+C:\Users\99293\source\repos\Lesson3Tasks\obj\Debug\net5.0\Lesson3Tasks.AssemblyInfo.cs
+C:\Users\99293\source\repos\Lesson3Tasks\obj\Debug\net5.0\Lesson3Tasks.csproj.CoreCompileInputs.cache
+C:\Users\99293\source\repos\Lesson3Tasks\bin\Debug\net5.0\Lesson3Tasks.exe
+C:\Users\99293\source\repos\Lesson3Tasks\bin\Debug\net5.0\Lesson3Tasks.deps.json
+C:\Users\99293\source\repos\Lesson3Tasks\bin\Debug\net5.0\Lesson3Tasks.runtimeconfig.json
+C:\Users\99293\source\repos\Lesson3Tasks\bin\Debug\net5.0\Lesson3Tasks.runtimeconfig.dev.json
+C:\Users\99293\source\repos\Lesson3Tasks\bin\Debug\net5.0\Lesson3Tasks.dll
+C:\Users\99293\source\repos\Lesson3Tasks\bin\Debug\net5.0\ref\Lesson3Tasks.dll
+C:\Users\99293\source\repos\Lesson3Tasks\bin\Debug\net5.0\Lesson3Tasks.pdb
+C:\Users\99293\source\repos\Lesson3Tasks\obj\Debug\net5.0\Lesson3Tasks.dll
+C:\Users\99293\source\repos\Lesson3Tasks\obj\Debug\net5.0\ref\Lesson3Tasks.dll
+C:\Users\99293\source\repos\Lesson3Tasks\obj\Debug\net5.0\Lesson3Tasks.pdb
+C:\Users\99293\source\repos\Lesson3Tasks\obj\Debug\net5.0\Lesson3Tasks.genruntimeconfig.cache
